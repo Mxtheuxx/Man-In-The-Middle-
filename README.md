@@ -7,6 +7,7 @@ O que é MITM/ Como funciona:
 
 No caso quando acontece o ataque MITM o hacker intercepta esse tráfico se passando pelo o ponto “B” para que o “A” envie informações para ele, e se passando pelo ponto “A” para que o “B” envie informações para ele  também (Obs: No caso isso acontece de uma forma transparente fazendo com que ninguém consiga ver o hacker, como se só existisse o ponto “A” e “B”), no caso ficaria assim:
   https://prnt.sc/u5m08c
+
 Defesa contra o ataque MITM:
 •	Evitar se conectar a wi-fi público.
 •	Endpoint Management (Gerenciamento de Endpoint), no caso você gerenciar os usuários da sua rede, saber quem está usando-a.
