@@ -17,6 +17,7 @@ Defesa contra o ataque MITM:
 	•	Criptografar o tráfego de informações de um servidor com o cliente, um exemplo seria o “ipsec”.
 	•	Utilizar um NIDS (Network Intrusion Detection System), no caso ele detecta os pacotes e gera alertas sobre eles.
 Ferramentas de (MITM): ferramentas: 
+
 	•	Cain & Abel
 	•	ARPspoff
 	•	DNS spoofing
