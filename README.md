@@ -11,7 +11,8 @@ No caso quando acontece o ataque MITM o hacker intercepta esse tráfico se passa
   https://prnt.sc/u5m08c
 
 Defesa contra o ataque MITM:
-	•	Evitar se conectar a wi-fi público.
+
+	•       Evitar se conectar a wi-fi público.
 	•	Endpoint Management (Gerenciamento de Endpoint), no caso você gerenciar os usuários da sua rede, saber quem está usando-a.
 	•	Criptografar o tráfego de informações de um servidor com o cliente, um exemplo seria o “ipsec”.
 	•	Utilizar um NIDS (Network Intrusion Detection System), no caso ele detecta os pacotes e gera alertas sobre eles.
