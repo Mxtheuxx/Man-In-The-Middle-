@@ -5,12 +5,10 @@ Man-In-The-Middle (MITM)
 O que é MITM/ Como funciona:
 
    Olá, hoje iremos falar sobre o ataque Man-In-The-Middle(MITM), traduzindo ficaria "Homem no meio", no caso o MITM se baseia na interceptação do trafego de informações, no  caso o hacker se inserir em uma conversa entre duas partes, um exemplo seria: imagine que você é o ponto “A” e o seu roteador é o ponto “B”, no caso como o “A” é o seu dispositivo como por exemplo o computador ele é uma host e ele está conectado ao roteador que é um server no caso o ponto “B”, nisso está ocorrendo um trafego de informações entre eles: 
-   
- 	https://prnt.sc/u5lwc6
+ 	![download (1)](https://user-images.githubusercontent.com/65621998/91197611-edc6bf00-e6d1-11ea-8872-2c5437e93237.png)
 
    No caso quando acontece o ataque MITM o hacker intercepta esse tráfico se passando pelo o ponto “B” para que o “A” envie informações para ele, e se passando pelo ponto “A” para que o “B” envie informações para ele  também (Obs: No caso isso acontece de uma forma transparente fazendo com que ninguém consiga ver o hacker, como se só existisse o ponto “A” e “B”), no caso ficaria assim:
-   
-  	https://prnt.sc/u5m08c
+  	![download (2)](https://user-images.githubusercontent.com/65621998/91197742-151d8c00-e6d2-11ea-9f5c-fa61a508eb69.png)
 
 Defesa contra o ataque MITM:
 
